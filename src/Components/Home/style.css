@@ -1,0 +1,19 @@
+.home-container{
+    background-image: url('../../Assets/imgs/homeGif.gif');
+    background-size: cover;
+    background-position: center;
+    border-radius: 2.5%;
+    box-shadow: 5px 5px #000000;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+    
+}
+.home-title{
+    padding: 1em;
+    font-size: 3em;
+    font-family: 'Press Start 2P', cursive;
+    color: #ffcc01;
+    text-shadow: 5px 5px #000000;
+}
+

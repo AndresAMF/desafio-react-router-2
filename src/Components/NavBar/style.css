@@ -1,0 +1,23 @@
+.active{
+    color: #ffcc01;
+  }
+
+.notActive{
+    color: rgb(40, 148, 255);
+}
+
+.navbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(25, 118, 210);
+  padding: 1em 6em;
+}
+.brand-img{
+  width: 17em;
+}
+.navbar-links{
+  font-size: 2em;
+  text-shadow: 2px 2px #000000 ;
+}

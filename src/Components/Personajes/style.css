@@ -1,0 +1,38 @@
+.pokemons-container {
+  height: 20em;
+  width: 60em;
+  background-color: rgb(25, 118, 210);
+  margin: 2em auto;
+  border-radius: 2.5%;
+  box-shadow: 5px 5px #000000;
+  background-image: url("../../Assets/imgs/pokeballs.gif");
+  background-size: contain;
+}
+.pokemons-title {
+  font-family: "Press Start 2P", cursive;
+  font-size: 3em;
+  padding: 1em;
+  margin: 0px;
+  color: #ffcc01;
+  text-shadow: 5px 5px #000000;
+}
+.select-box {
+  height: 2em;
+  width: auto;
+  font-size: 1em;
+  font-family: "Press Start 2P", cursive;
+  text-align: center;
+  background-color: #ffcc01;
+}
+.pokemons-button {
+  height: 3em;
+  width: 15em;
+  font-family: "Press Start 2P", cursive;
+  background-color: #ffcc01;
+}
+.select-button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
